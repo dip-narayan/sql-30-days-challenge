@@ -1,72 +1,95 @@
-# SQL 30 Days Challenge
+# SQL 30 Days Challenge | PostgreSQL 🚀
 
-# 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Oracle HR](https://img.shields.io/badge/Oracle-HR%20Schema-red?style=for-the-badge\&logo=oracle\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Interview%20Practice-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)
 
-# A collection of 60 SQL practice questions solved over 30 days, covering topics from SQL fundamentals to advanced concepts using the Oracle HR sample schema.
+A collection of **60 interview-oriented SQL problems** solved using **PostgreSQL** with the **Oracle HR Sample Database**. This repository demonstrates SQL concepts ranging from fundamental queries to advanced analytical techniques.
 
-# 
+---
 
-# 📚 Topics
+## 📌 Project Details
 
-# SQL Basics
+* **Database:** PostgreSQL
+* **Schema:** Oracle HR Sample Database
+* **Total Questions:** 60
+* **Difficulty:** Beginner → Advanced
 
-# GROUP BY \& HAVING
+---
 
-# Joins
+## 📚 Topics Covered
 
-# Subqueries
+* SQL Basics
+* Aggregate Functions
+* GROUP BY & HAVING
+* Joins
+* Subqueries
+* Window Functions
+* Common Table Expressions (CTEs)
+* Recursive CTEs
+* Advanced SQL
 
-# Window Functions
+---
 
-# Advanced SQL
+## 📝 Solutions
 
-# 📂 Repository Structure
+Each solution includes:
 
-# database/
+* Problem statement
+* Well-formatted SQL query
+* Clean and readable code following SQL best practices
 
-# Level-1\_SQL\_Basics/
+---
 
-# Level-2\_GroupBy\_Having/
+## 📂 Repository Structure
 
-# Level-3\_Joins/
+```text
+SQL-30-Days-Challenge/
+│
+├── README.md
+├── LICENSE
+│
+├── database/
+│   ├── hrdb_backup.dump
+│   ├── hrdb_schema.png
+│   └── README.md
+│
+├── questions/
+│   └── sql_questions.pdf
+│
+└── solutions/
+    ├── 01_sql_basics.sql
+    ├── 02_group_by_having.sql
+    ├── 03_joins.sql
+    ├── 04_subqueries.sql
+    ├── 05_window_functions.sql
+    └── 06_advanced_sql.sql
+```
 
-# Level-4\_Subqueries/
+---
 
-# Level-5\_Window\_Functions/
+## 📈 Progress
 
-# Level-6\_Advanced\_SQL/
+| Level                     |    Status   |
+| ------------------------- | :---------: |
+| SQL Basics (1–15)         | ✅ Completed |
+| GROUP BY & HAVING (16–25) |  ⏳ Pending  |
+| Joins (26–35)             |  ⏳ Pending  |
+| Subqueries (36–42)        |  ⏳ Pending  |
+| Window Functions (43–50)  |  ⏳ Pending  |
+| Advanced SQL (51–60)      |  ⏳ Pending  |
 
-# 🎯 Goal
+---
 
-# Complete 60 SQL problems in 30 days.
+## 🎯 Objectives
 
-# Strengthen SQL problem-solving skills.
+* Strengthen SQL fundamentals.
+* Practice interview-oriented SQL problems.
+* Build a professional SQL portfolio.
 
-# Build a portfolio for interview preparation.
+---
 
-# 📈 Progress
+## 📄 License
 
-# 
-
-# Level 1 – SQL Basics
-
-# 
-
-# Level 2 – GROUP BY \& HAVING
-
-# 
-
-# Level 3 – Joins
-
-# 
-
-# Level 4 – Subqueries
-
-# 
-
-# Level 5 – Window Functions
-
-# 
-
-# Level 6 – Advanced SQL
-
+This project is licensed under the **MIT License**. See the `LICENSE` file for details.
