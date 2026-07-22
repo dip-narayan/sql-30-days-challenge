@@ -5,7 +5,7 @@
 ![SQL](https://img.shields.io/badge/SQL-Interview%20Practice-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)
 
-A collection of **60 interview-oriented SQL problems** solved using **PostgreSQL** with the **Oracle HR Sample Database**. This repository demonstrates SQL concepts ranging from fundamental queries to advanced analytical techniques.
+A collection of **60 interview-oriented SQL problems** solved using **PostgreSQL** with the **Oracle HR Sample Database**. This repository covers SQL concepts from fundamental queries to advanced analytical techniques, making it a practical resource for interview preparation and SQL practice.
 
 ---
 
@@ -37,7 +37,7 @@ A collection of **60 interview-oriented SQL problems** solved using **PostgreSQL
 Each solution includes:
 
 * Problem statement
-* Well-formatted SQL query
+* Well-formatted PostgreSQL SQL query
 * Clean and readable code following SQL best practices
 
 ---
@@ -74,11 +74,11 @@ SQL-30-Days-Challenge/
 | Level                     |    Status   |
 | ------------------------- | :---------: |
 | SQL Basics (1–15)         | ✅ Completed |
-| GROUP BY & HAVING (16–25) |  ⏳ Pending  |
-| Joins (26–35)             |  ⏳ Pending  |
-| Subqueries (36–42)        |  ⏳ Pending  |
-| Window Functions (43–50)  |  ⏳ Pending  |
-| Advanced SQL (51–60)      |  ⏳ Pending  |
+| GROUP BY & HAVING (16–25) | ✅ Completed |
+| Joins (26–35)             | ✅ Completed |
+| Subqueries (36–42)        | ✅ Completed |
+| Window Functions (43–50)  | ✅ Completed |
+| Advanced SQL (51–60)      | ✅ Completed |
 
 ---
 
@@ -87,6 +87,19 @@ SQL-30-Days-Challenge/
 * Strengthen SQL fundamentals.
 * Practice interview-oriented SQL problems.
 * Build a professional SQL portfolio.
+* Demonstrate proficiency with PostgreSQL using the Oracle HR Sample Database.
+
+---
+
+## 🤝 Contributing
+
+Contributions, suggestions, and improvements are welcome. Feel free to fork the repository, open an issue, or submit a pull request.
+
+---
+
+## ⭐ Support
+
+If you found this repository helpful, consider giving it a **⭐ Star** on GitHub.
 
 ---
 
