@@ -1,7 +1,0 @@
-# Force all .sql files to be detected as SQL code
-*.sql linguist-language=SQL
-
-# Ignore common documentation and configuration files from language statistics
-*.md linguist-documentation
-*.txt linguist-documentation
-*.json linguist-documentation
